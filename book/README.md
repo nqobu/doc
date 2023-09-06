@@ -1,6 +1,6 @@
 # Books
 
-  - [Linux command line for you and me Documentation](https://lym.readthedocs.io/en/latest/), [PDF](https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf)
+  - Linux command line for you and me Documentation. [Web](https://lym.readthedocs.io/en/latest/) [PDF](https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf)
 
 ## Tips
 
