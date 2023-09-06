@@ -1,6 +1,6 @@
 # Books
 
-  - Kushal Das, _Linux command line for you and me Documentation_. [Online](https://lym.readthedocs.io/en/latest/) [PDF](https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf)
+  - Kushal Das, _Linux command line for you and me Documentation_. [Online](https://lym.readthedocs.io/en/latest/)/[PDF](https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf)
 
 ## Tips
 
