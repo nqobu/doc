@@ -3,6 +3,7 @@
 ## My Collection
 
  -  [Data Parallel C++..Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
+ -  [Deep Learning](https://www.deeplearningbook.org/).
  -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
      -  An Introduction to Statistical Learning with Applications in Python. \[[PDF](https://drive.google.com/uc?export=download&id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1)\]
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
