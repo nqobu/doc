@@ -2,7 +2,7 @@
 
 ## My Collection
 
- -  [Data Parallel C++..Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
+ -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
  -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
  -  [Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
  -  [Foundations of Machine Learning, 2e](https://cs.nyu.edu/~mohri/mlbook/) (ISBN: 978-0262039406). \[[Web](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)\] \[[PDF](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)\]
