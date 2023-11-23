@@ -2,8 +2,11 @@
 
 ## My Collection
 
- -  [Data Parallel C++..Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2), \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
- -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0), \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
+ -  [Data Parallel C++..Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
+ -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
+     -  An Introduction to Statistical Learning with Applications in Python. \[[PDF](https://drive.google.com/uc?export=download&id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1)\]
+     -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
+ -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0). \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
  -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
 
 ## [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
