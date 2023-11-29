@@ -2,14 +2,14 @@
 
 ## My Collection
 
- -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
- -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
- -  [Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
- -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
- -  [Foundations of Machine Learning, 2e](https://cs.nyu.edu/~mohri/mlbook/) (ISBN: 978-0262039406). \[[Web](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)\] \[[PDF](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)\]
  -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
      -  An Introduction to Statistical Learning with Applications in Python. \[[PDF](https://drive.google.com/uc?export=download&id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1)\]
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
+ -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
+ -  [Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
+ -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
+ -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
+ -  [Foundations of Machine Learning, 2e](https://cs.nyu.edu/~mohri/mlbook/) (ISBN: 978-0262039406). \[[Web](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)\] \[[PDF](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)\]
  -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0). \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
  -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
  -  [Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/) (ISBN: 978-1107163447). \[[PDF](https://www.probabilistic-numerics.org/assets/ProbabilisticNumerics.pdf)\]
