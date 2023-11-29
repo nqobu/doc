@@ -9,7 +9,7 @@
  -  [Applied Data Science](https://www.datasciencecentral.com/free-ebook-applied-data-science-columbia-university/). \[[PDF](https://columbia-applied-data-science.github.io/appdatasci.pdf)\]
  -  [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online). \[[PDF](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)\]
  -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
- -  [Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
+ -  [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
  -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
  -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
  -  [Foundations of Machine Learning, 2e](https://cs.nyu.edu/~mohri/mlbook/) (ISBN: 978-0262039406). \[[Web](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)\] \[[PDF](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)\]
