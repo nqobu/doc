@@ -6,9 +6,9 @@
  -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
      -  An Introduction to Statistical Learning with Applications in Python. \[[PDF](https://drive.google.com/uc?export=download&id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1)\]
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
- -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
  -  [Applied Data Science](https://www.datasciencecentral.com/free-ebook-applied-data-science-columbia-university/). \[[PDF](https://columbia-applied-data-science.github.io/appdatasci.pdf)\]
  -  [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online). \[[PDF](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)\]
+ -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
  -  [Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
  -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
  -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
