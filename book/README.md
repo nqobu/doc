@@ -12,6 +12,7 @@
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
  -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0). \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
  -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
+ -  [The not so Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
  -  [Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/) (ISBN: 978-1107163447). \[[PDF](https://www.probabilistic-numerics.org/assets/ProbabilisticNumerics.pdf)\]
 
 ## [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
