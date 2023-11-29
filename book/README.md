@@ -17,7 +17,9 @@
  -  [The Comprehensive LaTeX Symbol List](https://tug.ctan.org/info/symbols/comprehensive/). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
  -  [The not so Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
 
-## [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
+## See Also
+
+### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
 
  -  [Agile Software Development: Principles, Patterns, and Practices](https://amzn.to/2XT4fj3)
  -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik)
