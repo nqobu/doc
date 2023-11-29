@@ -2,6 +2,7 @@
 
 ## My Collection
 
+ -  [Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html). \[[PDF](http://www.cis.upenn.edu/~jean/math-deep.pdf)\]
  -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
      -  An Introduction to Statistical Learning with Applications in Python. \[[PDF](https://drive.google.com/uc?export=download&id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1)\]
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
