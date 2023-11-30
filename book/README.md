@@ -3,7 +3,6 @@
 ## My Collection
 
  -  [A Programmer's Guide to Data Mining](http://guidetodatamining.com/). \[[PDF](http://guidetodatamining.com/assets/guideChapters/Guide2DataMining.pdf)\]
- -  [Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html). \[[PDF](http://www.cis.upenn.edu/~jean/math-deep.pdf)\]
  -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
      -  An Introduction to Statistical Learning with Applications in Python. \[[PDF](https://drive.google.com/uc?export=download&id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1)\]
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
@@ -14,9 +13,6 @@
  -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
  -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
  -  [Foundations of Machine Learning, 2e](https://cs.nyu.edu/~mohri/mlbook/) (ISBN: 978-0262039406). \[[Web](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)\] \[[PDF](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)\]
- -  [Linear Algebra and Optimization with Applications to Machine Learning Published by World Scientific](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)
-     -  Volume I: Linear Algebra for Computer Vision, Robotics, and Machine Learning. \[[PDF](http://www.seas.upenn.edu/~cis515/linalg-I.pdf)\]
-     -  Volume II: Fundamentals of Optimization Theory With Applications to Machine Learning. \[[PDF](http://www.seas.upenn.edu/~cis515/linalg-II.pdf)\]
  -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0). \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
  -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
  -  [Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/) (ISBN: 978-1107163447). \[[PDF](https://www.probabilistic-numerics.org/assets/ProbabilisticNumerics.pdf)\]
@@ -26,6 +22,41 @@
  -  [The not so Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
 
 ## See Also
+
+### [Jean Gallier's books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
+
+Published Books
+
+ -  [A Guide to the Classification Theorem for Compact Surfaces](http://www.cis.upenn.edu/~jean/gbooks/surftop.html)
+ -  [Curves and Surfaces in Geometric Modeling: Theory and Algorithms](http://www.cis.upenn.edu/~jean/gbooks/geom1.html). \[[PDF](https://www.cis.upenn.edu/~jean/geomcs-v2.pdf),[Errata](http://www.cis.upenn.edu/~jean/gbooks/typos1.pdf)\]
+ -  [Differential Geometry and Lie Groups](http://www.cis.upenn.edu/~jean/gbooks/manif.html)
+     1. A Computational Perspective. \[[PDF](http://www.seas.upenn.edu/~jean/diffgeom-spr-I.pdf),[Errata](http://www.seas.upenn.edu/~jean/typos-diff1.pdf)\]
+     2. A Second Course. \[[PDF](http://www.seas.upenn.edu/~jean/diffgeom-spr-II.pdf),[Errata](http://www.seas.upenn.edu/~jean/typos-diff2.pdf)\]
+ -  [Discrete Mathematics](http://www.cis.upenn.edu/~jean/gbooks/discmath.html)
+ -  [Geometric Methods and Applications](http://www.cis.upenn.edu/~jean/gbooks/geom.html)
+     - [Geometric Methods and Applications For Computer Science and Engineering](https://www.cis.upenn.edu/~jean/gbooks/geom2.html)
+     - [Geometric Methods and Applications For Computer Science and Engineering Part II (Internet Supplement)](https://www.cis.upenn.edu/~jean/gbooks/geom3.html)
+ -  [Geometric Methods and Applications, 2e](http://www.cis.upenn.edu/~jean/gbooks/geom2-v2.html)
+ -  [Homology, Cohomology, and Sheaf Cohomology for Algebraic Topology, Algebraic Geometry, and Differential Geometry World Scientific](http://www.cis.upenn.edu/~jean/gbooks/sheaf-coho.html). \[[PDF](http://www.seas.upenn.edu/~jean/sheaves-coho.pdf),[Errata](http://www.seas.upenn.edu/~jean/typos-coho.pdf)\]
+ -  [Linear Algebra and Optimization with Applications to Machine Learning](http://www.cis.upenn.edu/~jean/gbooks/linalg.html)
+	   1. Linear Algebra for Computer Vision, Robotics, and Machine Learning \[[PDF](http://www.seas.upenn.edu/~cis515/linalg-I.pdf),[Errata](http://www.seas.upenn.edu/~jean/gbooks/typoslin1.pdf)\]
+	   2. Fundamentals of Optimization Theory with Applications to Machine Learning \[[PDF](http://www.seas.upenn.edu/~cis515/linalg-II.pdf),[Errata](http://www.seas.upenn.edu/~jean/gbooks/typoslin2.pdf)\]
+ -  [Logic for Computer Science: Foundations of Automatic Theorem Proving, 2e](https://www.cis.upenn.edu/~jean/gbooks/logic.html).
+
+In progress
+
+ -  [Algebra](http://www.cis.upenn.edu/~jean/algeom/amsalg.html). \[[PDF](http://www.cis.upenn.edu/~jean/algebra.pdf)\]
+ -  [Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html). \[[PDF](http://www.cis.upenn.edu/~jean/math-deep.pdf)\]
+ -  [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeom/steve01.html). \[[PDF](http://www.cis.upenn.edu/~jean/algeoms.pdf)\]
+ -  [Aspects of Convex Geometry Polyhedra, Linear Programming, Shellings, Voronoi Diagrams, Delaunay Triangulations](http://www.cis.upenn.edu/~jean/gbooks/convexpoly.html). \[[PDF](https://www.cis.upenn.edu/~jean/combtopol.pdf)\]
+ -  [Aspects of Harmonic Analysis and Representation Theory](https://www.cis.upenn.edu/~jean/gbooks/nc-harmonic.html)
+     1. Aspects of Harmonic Analysis on Locally Compact Abelian Groups \[[PDF](http://www.seas.upenn.edu/~jean/nc-harmonic-I.pdf)\]
+     2. Aspects of Representation Theory and Noncommutative Harmonic Analysis. \[[PDF](http://www.seas.upenn.edu/~jean/nc-harmonic-II.pdf)\]
+ -  [Complex Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeom/steve02.html). \[[PDF](http://www.cis.upenn.edu/~jean/calgeom.pdf)\]
+ -  [Mathematical Foundations and Aspects of Discrete Mathematics](#). \[[PDF](https://www.cis.upenn.edu/~jean/discmath-root-b.pdf)\]
+ -  [Notes on Formal Languages, Automata and Computability](http://www.cis.upenn.edu/~jean/gbooks/tocnotes.html). \[[PDF](http://www.cis.upenn.edu/~jean/tcbook.pdf)\]
+ -  [Proofs, Computability, Undecidability, Complexity, And the Lambda Calculus An Introduction](#). \[[PDF](https://www.seas.upenn.edu/~cis5110/notes/proofslambda.pdf)\]
+ -  [The Theory of Languages and Computation](http://www.cis.upenn.edu/~jean/gbooks/tc.html). \[[PDF](http://www.cis.upenn.edu/~jean/gbooks/toc.pdf)\]
 
 ### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
 
