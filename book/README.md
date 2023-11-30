@@ -18,8 +18,8 @@
  -  [Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/) (ISBN: 978-1107163447). \[[PDF](https://www.probabilistic-numerics.org/assets/ProbabilisticNumerics.pdf)\]
  -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X by Topic](https://www.eijkhout.net/tex/tex-by-topic.html) (ISBN: 0-201-56882-9). \[[PDF](https://github.com/VictorEijkhout/tex-by-topic),[簡中版](https://github.com/CTeX-org/tex-by-topic-cn)\]
  -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Commands available in MathJax](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm).
- -  [The Comprehensive LaTeX Symbol List](https://tug.ctan.org/info/symbols/comprehensive/). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
- -  [The not so Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
+ -  [The Comprehensive L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Symbol List](https://tug.ctan.org/info/symbols/comprehensive/). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
+ -  [The not so Short Introduction to L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
 
 ## See Also
 
