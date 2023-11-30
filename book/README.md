@@ -25,7 +25,7 @@
 
 ### [Jean Gallier's books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
-Published Books
+#### Published Books
 
  -  [A Guide to the Classification Theorem for Compact Surfaces](http://www.cis.upenn.edu/~jean/gbooks/surftop.html)
  -  [Curves and Surfaces in Geometric Modeling: Theory and Algorithms](http://www.cis.upenn.edu/~jean/gbooks/geom1.html). \[[PDF](https://www.cis.upenn.edu/~jean/geomcs-v2.pdf),[Errata](http://www.cis.upenn.edu/~jean/gbooks/typos1.pdf)\]
@@ -43,7 +43,7 @@ Published Books
 	   2. Fundamentals of Optimization Theory with Applications to Machine Learning \[[PDF](http://www.seas.upenn.edu/~cis515/linalg-II.pdf),[Errata](http://www.seas.upenn.edu/~jean/gbooks/typoslin2.pdf)\]
  -  [Logic for Computer Science: Foundations of Automatic Theorem Proving, 2e](https://www.cis.upenn.edu/~jean/gbooks/logic.html).
 
-In progress
+#### In progress
 
  -  [Algebra](http://www.cis.upenn.edu/~jean/algeom/amsalg.html). \[[PDF](http://www.cis.upenn.edu/~jean/algebra.pdf)\]
  -  [Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/geomath.html). \[[PDF](http://www.cis.upenn.edu/~jean/math-deep.pdf)\]
