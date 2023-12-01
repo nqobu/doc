@@ -23,9 +23,32 @@
 
 ## See Also
 
+### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
+
+ -  [Agile Software Development: Principles, Patterns, and Practices](https://amzn.to/2XT4fj3)
+ -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik)
+ -  [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/2jTxLHt)
+ -  [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/2k1ogG7)
+ -  [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/2XMluCs)
+ -  [Code Complete: A Practical Handbook of Software Construction](https://amzn.to/2jY2PWp)
+ -  [CODE: The Hidden Language of Computer Hardware and Software](https://amzn.to/2XYXZKA)
+ -  [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://amzn.to/2XPSwlg)
+ -  [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2jY1a37)
+ -  [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2XPjDwF)
+ -  [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/2XNEdxz)
+ -  [Introduction to Algorithms](https://amzn.to/2XRR81s)
+ -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY)
+ -  [Patterns of Enterprise Application Architecture](https://amzn.to/2jSqwQ5)
+ -  [Peopleware: Productive Projects and Teams](https://amzn.to/2XR6keY)
+ -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh)
+ -  [Programming Pearls](https://amzn.to/2XNxWlf)
+ -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF)
+ -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y)
+ -  [Working Effectively with Legacy Code](https://amzn.to/2Y5hNvR)
+
 ### [Jean Gallier's books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
-#### Published Books
+#### Published
 
  -  [A Guide to the Classification Theorem for Compact Surfaces](http://www.cis.upenn.edu/~jean/gbooks/surftop.html)
  -  [Curves and Surfaces in Geometric Modeling: Theory and Algorithms](http://www.cis.upenn.edu/~jean/gbooks/geom1.html). \[[PDF](https://www.cis.upenn.edu/~jean/geomcs-v2.pdf),[Errata](http://www.cis.upenn.edu/~jean/gbooks/typos1.pdf)\]
@@ -57,29 +80,6 @@
  -  [Notes on Formal Languages, Automata and Computability](http://www.cis.upenn.edu/~jean/gbooks/tocnotes.html). \[[PDF](http://www.cis.upenn.edu/~jean/tcbook.pdf)\]
  -  [Proofs, Computability, Undecidability, Complexity, And the Lambda Calculus An Introduction](#). \[[PDF](https://www.seas.upenn.edu/~cis5110/notes/proofslambda.pdf)\]
  -  [The Theory of Languages and Computation](http://www.cis.upenn.edu/~jean/gbooks/tc.html). \[[PDF](http://www.cis.upenn.edu/~jean/gbooks/toc.pdf)\]
-
-### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
-
- -  [Agile Software Development: Principles, Patterns, and Practices](https://amzn.to/2XT4fj3)
- -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik)
- -  [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/2jTxLHt)
- -  [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/2k1ogG7)
- -  [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/2XMluCs)
- -  [Code Complete: A Practical Handbook of Software Construction](https://amzn.to/2jY2PWp)
- -  [CODE: The Hidden Language of Computer Hardware and Software](https://amzn.to/2XYXZKA)
- -  [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://amzn.to/2XPSwlg)
- -  [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2jY1a37)
- -  [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2XPjDwF)
- -  [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/2XNEdxz)
- -  [Introduction to Algorithms](https://amzn.to/2XRR81s)
- -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY)
- -  [Patterns of Enterprise Application Architecture](https://amzn.to/2jSqwQ5)
- -  [Peopleware: Productive Projects and Teams](https://amzn.to/2XR6keY)
- -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh)
- -  [Programming Pearls](https://amzn.to/2XNxWlf)
- -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF)
- -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y)
- -  [Working Effectively with Legacy Code](https://amzn.to/2Y5hNvR)
 
 <!--
   vim:  ft=markdown ic et norl wrap sw=4 sts=4:
