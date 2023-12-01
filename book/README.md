@@ -32,6 +32,8 @@
  -  [The Comprehensive L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Symbol List](https://tug.ctan.org/info/symbols/comprehensive/). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
  -  [The not so Short Introduction to L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
 
+---
+
 ## See Also
 
 ### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
@@ -56,8 +58,6 @@
  -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF)
  -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y)
  -  [Working Effectively with Legacy Code](https://amzn.to/2Y5hNvR)
-
----
 
 ### [Jean Gallier's books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
