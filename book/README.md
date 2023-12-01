@@ -79,9 +79,9 @@
      1. Aspects of Harmonic Analysis on Locally Compact Abelian Groups \[[PDF](http://www.seas.upenn.edu/~jean/nc-harmonic-I.pdf)\]
      2. Aspects of Representation Theory and Noncommutative Harmonic Analysis. \[[PDF](http://www.seas.upenn.edu/~jean/nc-harmonic-II.pdf)\]
  -  [Complex Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeom/steve02.html). \[[PDF](http://www.cis.upenn.edu/~jean/calgeom.pdf)\]
- -  [Mathematical Foundations and Aspects of Discrete Mathematics](#). \[[PDF](https://www.cis.upenn.edu/~jean/discmath-root-b.pdf)\]
+ -  Mathematical Foundations and Aspects of Discrete Mathematics. \[[PDF](https://www.cis.upenn.edu/~jean/discmath-root-b.pdf)\]
  -  [Notes on Formal Languages, Automata and Computability](http://www.cis.upenn.edu/~jean/gbooks/tocnotes.html). \[[PDF](http://www.cis.upenn.edu/~jean/tcbook.pdf)\]
- -  [Proofs, Computability, Undecidability, Complexity, And the Lambda Calculus An Introduction](#). \[[PDF](https://www.seas.upenn.edu/~cis5110/notes/proofslambda.pdf)\]
+ -  Proofs, Computability, Undecidability, Complexity, And the Lambda Calculus An Introduction. \[[PDF](https://www.seas.upenn.edu/~cis5110/notes/proofslambda.pdf)\]
  -  [The Theory of Languages and Computation](http://www.cis.upenn.edu/~jean/gbooks/tc.html). \[[PDF](http://www.cis.upenn.edu/~jean/gbooks/toc.pdf)\]
 
 <!--
