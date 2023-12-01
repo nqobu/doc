@@ -24,8 +24,6 @@
  -  [Advanced Bash-Scripting Guide](https://tldp.org/guides.html#abs) \[[PDF](https://tldp.org/LDP/abs/abs-guide.pdf)\] \[[HTML](https://tldp.org/LDP/abs/html/),[HTML(簡中)](https://linuxstory.gitbook.io/advanced-bash-scripting-guide-in-chinese/zheng-wen/part1)\] \[[MD(簡中)](https://github.com/LinuxStory/Advanced-Bash-Scripting-Guide-in-Chinese)\]
  -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
  -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
- -  [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/). \[[PDF](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)\] \[[HTML](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)\]
- -  [GNU Coding Standards](https://www.gnu.org/prep/standards/). \[[PDF](https://www.gnu.org/prep/standards/standards.pdf)\] \[[HTML](https://www.gnu.org/prep/standards/standards.html)\]
  -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
 
 ### T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X/L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X
@@ -63,6 +61,9 @@
  -  [Working Effectively with Legacy Code](https://amzn.to/2Y5hNvR)
 
 ### [GNU Manuals](https://www.gnu.org/manual/manual.html)
+
+ -  [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/). \[[PDF](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)\] \[[HTML](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)\]
+ -  [GNU Coding Standards](https://www.gnu.org/prep/standards/). \[[PDF](https://www.gnu.org/prep/standards/standards.pdf)\] \[[HTML](https://www.gnu.org/prep/standards/standards.html)\]
 
 ### [Jean Gallier's books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
