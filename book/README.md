@@ -81,7 +81,10 @@
  -  [Complex Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeom/steve02.html). \[[PDF](http://www.cis.upenn.edu/~jean/calgeom.pdf)\]
  -  Mathematical Foundations and Aspects of Discrete Mathematics. \[[PDF](https://www.cis.upenn.edu/~jean/discmath-root-b.pdf)\]
  -  [Notes on Formal Languages, Automata and Computability](http://www.cis.upenn.edu/~jean/gbooks/tocnotes.html). \[[PDF](http://www.cis.upenn.edu/~jean/tcbook.pdf)\]
+ -  Notes on Primality Testing And Public Key Cryptography.
+     1. Randomized Algorithms Miller-Rabin and Solovay-Strassen Tests. \[[PDF](https://www.cis.upenn.edu/~jean/RSA-primality-testing.pdf)\]
  -  Proofs, Computability, Undecidability, Complexity, And the Lambda Calculus An Introduction. \[[PDF](https://www.seas.upenn.edu/~cis5110/notes/proofslambda.pdf)\]
+ -  [Spectral Graph Theory of Unsigned and Signed Graphs Applications to Graph Clustering: A Survey](https://arxiv.org/abs/1601.04692). \[[PDF](https://www.cis.upenn.edu/~jean/spectral-graph-notes.pdf)\]
  -  [The Theory of Languages and Computation](http://www.cis.upenn.edu/~jean/gbooks/tc.html). \[[PDF](http://www.cis.upenn.edu/~jean/gbooks/toc.pdf)\]
 
 <!--
