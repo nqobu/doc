@@ -2,6 +2,8 @@
 
 ## My Collection
 
+### AI, Data Science, Deep/Machine Learning, Math
+
  -  [A Comprehensive Guide to Machine Learning](https://snasiriany.me/). \[[PDF](https://snasiriany.me/files/ml-book.pdf)\]
  -  [A Programmer's Guide to Data Mining](http://guidetodatamining.com/). \[[PDF](http://guidetodatamining.com/assets/guideChapters/Guide2DataMining.pdf)\]
  -  [An Introduction to Statistical Learning](https://www.statlearning.com/)
@@ -9,20 +11,26 @@
      -  An Introduction to Statistical Learning with Applications in R, 2e. \[[PDF](https://drive.google.com/uc?export=download&id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ)\]
  -  [Applied Data Science](https://www.datasciencecentral.com/free-ebook-applied-data-science-columbia-university/). \[[PDF](https://columbia-applied-data-science.github.io/appdatasci.pdf)\]
  -  [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online). \[[PDF](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)\]
- -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
  -  [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai) (ISBN: 978-1-9162435-4-5). \[[PDF](https://arxiv.org/pdf/2201.00650.pdf)\]
  -  [Deep Learning](https://www.deeplearningbook.org/) (ISBN: 978-0262035613).
- -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
  -  [Foundations of Machine Learning, 2e](https://cs.nyu.edu/~mohri/mlbook/) (ISBN: 978-0262039406). \[[Web](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover)\] \[[PDF](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)\]
+ -  [The Elements of Statistical Learning, 2e](https://hastie.su.domains/ElemStatLearn/). \[[PDF](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)\]
  -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0). \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
- -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
  -  [Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/) (ISBN: 978-1107163447). \[[PDF](https://www.probabilistic-numerics.org/assets/ProbabilisticNumerics.pdf)\]
+ -  [解析卷積神經網路&mdash;深度學習實踐手冊](http://www.weixiushen.com/book/CNN_book.html)（簡中）. \[[PDF](http://www.weixiushen.com/book/CNN_book.pdf),[PDF(small)](http://www.weixiushen.com/book/CNN_book_small.pdf)\]
+
+### Coding and Computing
+
+ -  [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL, 2e](https://rd.springer.com/book/10.1007/978-1-4842-9691-2) (ISBN: 978-1-4842-9691-2). \[[PDF](https://rd.springer.com/content/pdf/10.1007/978-1-4842-9691-2.pdf)\] \[[EPUB](https://rd.springer.com/download/epub/10.1007/978-1-4842-9691-2.epub)\]
+ -  [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html).
+ -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
+
+### T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X/L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X
+
  -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X by Topic](https://www.eijkhout.net/tex/tex-by-topic.html) (ISBN: 0-201-56882-9). \[[PDF](https://github.com/VictorEijkhout/tex-by-topic),[PDF(簡中)](https://github.com/CTeX-org/tex-by-topic-cn)\]
  -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Commands available in MathJax](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm).
  -  [The Comprehensive L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Symbol List](https://tug.ctan.org/info/symbols/comprehensive/). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
- -  [The Elements of Statistical Learning, 2e](https://hastie.su.domains/ElemStatLearn/). \[[PDF](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)\]
  -  [The not so Short Introduction to L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
- -  [解析卷積神經網路&mdash;深度學習實踐手冊](http://www.weixiushen.com/book/CNN_book.html)（簡中）. \[[PDF](http://www.weixiushen.com/book/CNN_book.pdf),[PDF(small)](http://www.weixiushen.com/book/CNN_book_small.pdf)\]
 
 ## See Also
 
