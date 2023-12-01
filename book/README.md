@@ -17,12 +17,12 @@
  -  [Linear Algebra Done Right, 4e](https://linear.axler.net/) (ISBN: 978-3-031-41026-0). \[[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf)\]
  -  [Linux command line for you and me](https://github.com/kushaldas/lym). \[[Web](https://lym.readthedocs.io/en/latest/)\] \[[PDF](https://lym.readthedocs.io/_/downloads/en/latest/pdf/)\] \[[EPUB](https://lym.readthedocs.io/_/downloads/en/latest/epub/)\]
  -  [Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/) (ISBN: 978-1107163447). \[[PDF](https://www.probabilistic-numerics.org/assets/ProbabilisticNumerics.pdf)\]
- -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X by Topic](https://www.eijkhout.net/tex/tex-by-topic.html) (ISBN: 0-201-56882-9). \[[PDF](https://github.com/VictorEijkhout/tex-by-topic),[簡中PDF](https://github.com/CTeX-org/tex-by-topic-cn)\]
+ -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X by Topic](https://www.eijkhout.net/tex/tex-by-topic.html) (ISBN: 0-201-56882-9). \[[PDF](https://github.com/VictorEijkhout/tex-by-topic),[PDF\_簡中](https://github.com/CTeX-org/tex-by-topic-cn)\]
  -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Commands available in MathJax](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm).
  -  [The Comprehensive L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Symbol List](https://tug.ctan.org/info/symbols/comprehensive/). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
  -  [The Elements of Statistical Learning, 2e](https://hastie.su.domains/ElemStatLearn/). \[[PDF](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)\]
  -  [The not so Short Introduction to L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X](https://tobi.oetiker.ch/lshort/). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
- -  [解析卷積神經網路&mdash;深度學習實踐手冊（簡中）](http://www.weixiushen.com/book/CNN_book.html). \[[PDF](http://www.weixiushen.com/book/CNN_book.pdf),[small](http://www.weixiushen.com/book/CNN_book_small.pdf)\]
+ -  [解析卷積神經網路&mdash;深度學習實踐手冊（簡中）](http://www.weixiushen.com/book/CNN_book.html). \[[PDF](http://www.weixiushen.com/book/CNN_book.pdf),[PDF\_small](http://www.weixiushen.com/book/CNN_book_small.pdf)\]
 
 ## See Also
 
