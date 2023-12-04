@@ -68,7 +68,7 @@
      -  [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual). \[[PDF](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)\] \[[HTML](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)\]
      -  [GNU Coding Standards](https://www.gnu.org/prep/standards). \[[PDF](https://www.gnu.org/prep/standards/standards.pdf)\] \[[HTML](https://www.gnu.org/prep/standards/standards.html)\]
  -  [GNU Coreutils](https://www.gnu.org/software/coreutils). \[[PDF](https://www.gnu.org/software/coreutils/manual/coreutils.pdf)\] \[[HTML](https://www.gnu.org/software/coreutils/manual/coreutils.html)\]
- -  [GDB](https://sourceware.org/gdb/documentation). \[[PDF](https://sourceware.org/gdb/current/onlinedocs/gdb.pdf),[PDF(refcard)](https://sourceware.org/gdb/current/onlinedocs/refcard.pdf)\]
+ -  [GDB](https://sourceware.org/gdb/documentation). \[[PDF](https://sourceware.org/gdb/current/onlinedocs/gdb.pdf),[refcard](https://sourceware.org/gdb/current/onlinedocs/refcard.pdf)\]
  -  [GNU ed](https://www.gnu.org/software/ed). \[[HTML](https://www.gnu.org/software/ed/manual/ed_manual.html)\]
  -  [GNU Findutils](https://www.gnu.org/software/findutils/manual/find.html). \[[PDF](https://www.gnu.org/software/findutils/manual/find.pdf)\] \[[HTML](https://www.gnu.org/software/findutils/manual/html_mono/find.html)\]
  -  [GNU Grep](https://www.gnu.org/software/grep). \[[PDF](https://www.gnu.org/software/grep/manual/grep.pdf)\] \[[HTML](https://www.gnu.org/software/grep/manual/grep.html)\]
