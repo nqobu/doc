@@ -1,5 +1,7 @@
 # Books
 
+> **Note:** Most PDF files saved in this repository have file name different from their source and versioning follows the [SemVer 2.0.0 specification](https://semver.org/).
+
 ## My Collection
 
 ### AI, Data Science, Deep/Machine Learning, Math
@@ -34,8 +36,6 @@
  -  [T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Commands available in MathJax](https://www.onemathematicalcat.org/MathJaxDocumentation/TeXSyntax.htm).
  -  [The Comprehensive L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X Symbol List](https://tug.ctan.org/info/symbols/comprehensive). \[[PDF](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)\]
  -  [The not so Short Introduction to L<span style="font-size:.7em; text-transform:uppercase; margin-left:-.36em; line-height:0; vertical-align:.5ex; margin-right:-.15em">a</span>T<span style="text-transform:uppercase; margin-left:-.1667em; line-height:0; vertical-align:-.5ex; margin-right:-.125em">e</span>X](https://tobi.oetiker.ch/lshort). \[[PDF](https://tobi.oetiker.ch/lshort/lshort.pdf)\]
-
-> **Note:** Most PDF files saved in this repository have file name different from their source and versioning follows the [SemVer 2.0.0 specification](https://semver.org/).
 
 ---
 
