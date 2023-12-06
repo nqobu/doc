@@ -1,6 +1,6 @@
 # Books
 
-> **Note:** Most PDF files saved in this repository have file name different from their source.
+> **Note:** Most PDF files saved in this repository have filenames that are different from the filenames of their sources.
 
 ## My Collection
 
