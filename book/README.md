@@ -1,6 +1,6 @@
 # Books
 
-> **Note:** Most PDF files saved in this repository have file name different from their source and versioning follows the [SemVer 2.0.0 specification](https://semver.org/).
+> **Note:** Most PDF files saved in this repository have file name different from their source.
 
 ## My Collection
 
