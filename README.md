@@ -2,7 +2,7 @@
 
  -  book: free ebook collection
  -  cheat: cheat sheet
- -  man: Linux manunal pages
+ -  man: Linux manual pages
  -  slide
  -  spec: specifications or standards
  -  tutorial
