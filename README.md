@@ -1,6 +1,6 @@
 # My document collection
 
- -  book: free ebook collection
+ -  book: free ebook collection/recommendation
  -  cheat: cheat sheet
  -  man: Linux manual pages
  -  slide
