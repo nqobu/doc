@@ -54,10 +54,10 @@
  -  [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2XPjDwF). \[[中譯本](https://www.tenlong.com.tw/products/9787111616245)\]
  -  [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/2XNEdxz). \[[中譯本](https://www.tenlong.com.tw/products/9789865029364)\]
  -  [Introduction to Algorithms](https://amzn.to/2XRR81s)
- -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY). \[[中譯本](https://www.tenlong.com.tw/products/9787302635383)\]
+ -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY). \[[中譯本](https://www.tenlong.com.tw/products/9789867889188)\]
  -  [Patterns of Enterprise Application Architecture](https://amzn.to/2jSqwQ5). \[[中譯本](https://www.tenlong.com.tw/products/9786263330504)\]
  -  [Peopleware: Productive Projects and Teams](https://amzn.to/2XR6keY). \[[中譯本](https://www.tenlong.com.tw/products/9789869916240)\]
- -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh)
+ -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh) \[[簡中譯本](https://www.tenlong.com.tw/products/9787121123368)\]
  -  [Programming Pearls](https://amzn.to/2XNxWlf). \[[中譯本](https://www.tenlong.com.tw/products/9789865022914)\]
  -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF). \[[中譯本](https://www.tenlong.com.tw/products/9789865021832)\]
  -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y). \[[中譯本](https://www.tenlong.com.tw/products/9786263240674)\]
