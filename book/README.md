@@ -43,7 +43,7 @@
 ### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
 
  -  [Agile Software Development: Principles, Patterns, and Practices](https://amzn.to/2XT4fj3). \[[簡中譯本](https://www.tenlong.com.tw/products/9787302558545)\]
- -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik). \[[卷 1, 簡中譯本](https://www.tenlong.com.tw/products/9787115360670)\] \[[卷 1 增補, 簡中譯本](https://www.tenlong.com.tw/products/9787115541208)\] \[[卷 2, 簡中譯本](https://www.tenlong.com.tw/products/9787115360656)\] \[[卷 3, 簡中譯本](https://www.tenlong.com.tw/products/9787115360694)\] \[[卷 4A, 簡中譯本](https://www.tenlong.com.tw/products/9787115512871)\]
+ -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik). \[簡中譯本：[卷 1](https://www.tenlong.com.tw/products/9787115360670)\] \[[卷 1 增補](https://www.tenlong.com.tw/products/9787115541208)\] \[[卷 2](https://www.tenlong.com.tw/products/9787115360656)\] \[[卷 3](https://www.tenlong.com.tw/products/9787115360694)\] \[[卷 4A](https://www.tenlong.com.tw/products/9787115512871)\]
  -  [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/2jTxLHt). \[[中譯本](https://www.tenlong.com.tw/products/9789864342945)\]
  -  [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/2k1ogG7). \[[中譯本](https://www.tenlong.com.tw/products/9789862017050)\]
  -  [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/2XMluCs). \[[中譯本](https://www.tenlong.com.tw/products/9789862017883)\]
