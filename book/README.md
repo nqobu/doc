@@ -57,7 +57,7 @@
  -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY). \[[中譯本](https://www.tenlong.com.tw/products/9789867889188)\]
  -  [Patterns of Enterprise Application Architecture](https://amzn.to/2jSqwQ5). \[[中譯本](https://www.tenlong.com.tw/products/9786263330504)\]
  -  [Peopleware: Productive Projects and Teams](https://amzn.to/2XR6keY). \[[中譯本](https://www.tenlong.com.tw/products/9789869916240)\]
- -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh) \[[簡中譯本](https://www.tenlong.com.tw/products/9789865022754)\]
+ -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh) \[[中譯本](https://www.tenlong.com.tw/products/9789865022754)\]
  -  [Programming Pearls](https://amzn.to/2XNxWlf). \[[中譯本](https://www.tenlong.com.tw/products/9789865022914)\]
  -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF). \[[中譯本](https://www.tenlong.com.tw/products/9789865021832)\]
  -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y). \[[中譯本](https://www.tenlong.com.tw/products/9786263240674)\]
