@@ -42,26 +42,26 @@
 
 ### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
 
- -  [Agile Software Development: Principles, Patterns, and Practices](https://amzn.to/2XT4fj3)
- -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik)
- -  [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/2jTxLHt)
- -  [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/2k1ogG7)
- -  [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/2XMluCs)
- -  [Code Complete: A Practical Handbook of Software Construction](https://amzn.to/2jY2PWp)
- -  [CODE: The Hidden Language of Computer Hardware and Software](https://amzn.to/2XYXZKA)
- -  [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://amzn.to/2XPSwlg)
- -  [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2jY1a37)
- -  [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2XPjDwF)
- -  [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/2XNEdxz)
+ -  [Agile Software Development: Principles, Patterns, and Practices](https://amzn.to/2XT4fj3). \[[簡中譯本](https://www.tenlong.com.tw/products/9787302558545)\]
+ -  [The Art of Computer Programming](https://amzn.to/2XKk8Ik). \[[卷 1, 簡中譯本](https://www.tenlong.com.tw/products/9787115360670)\] \[[卷 1 增補, 簡中譯本](https://www.tenlong.com.tw/products/9787115541208)\] \[[卷 2, 簡中譯本](https://www.tenlong.com.tw/products/9787115360656)\] \[[卷 3, 簡中譯本](https://www.tenlong.com.tw/products/9787115360694)\] \[[卷 4A, 簡中譯本](https://www.tenlong.com.tw/products/9787115512871)\]
+ -  [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://amzn.to/2jTxLHt). \[[中譯本](https://www.tenlong.com.tw/products/9789864342945)\]
+ -  [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/2k1ogG7). \[[中譯本](https://www.tenlong.com.tw/products/9789862017050)\]
+ -  [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/2XMluCs). \[[中譯本](https://www.tenlong.com.tw/products/9789862017883)\]
+ -  [Code Complete: A Practical Handbook of Software Construction](https://amzn.to/2jY2PWp). \[[中譯本](https://www.tenlong.com.tw/products/9789864341313)\]
+ -  [CODE: The Hidden Language of Computer Hardware and Software](https://amzn.to/2XYXZKA). \[[中譯本](https://www.tenlong.com.tw/products/9786263245976)\]
+ -  [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://amzn.to/2XPSwlg). \[[中譯本](https://www.tenlong.com.tw/products/9789865025526)\]
+ -  [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/2jY1a37). \[[中譯本](https://www.tenlong.com.tw/products/9789572054116)\]
+ -  [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2XPjDwF). \[[中譯本](https://www.tenlong.com.tw/products/9787111616245)\]
+ -  [Head First Design Patterns: A Brain-Friendly Guide](https://amzn.to/2XNEdxz). \[[中譯本](https://www.tenlong.com.tw/products/9789865029364)\]
  -  [Introduction to Algorithms](https://amzn.to/2XRR81s)
- -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY)
- -  [Patterns of Enterprise Application Architecture](https://amzn.to/2jSqwQ5)
- -  [Peopleware: Productive Projects and Teams](https://amzn.to/2XR6keY)
+ -  [The Mythical Man-Month: Essays on Software Engineering](https://amzn.to/2XMoXAY). \[[中譯本](https://www.tenlong.com.tw/products/9787302635383)\]
+ -  [Patterns of Enterprise Application Architecture](https://amzn.to/2jSqwQ5). \[[中譯本](https://www.tenlong.com.tw/products/9786263330504)\]
+ -  [Peopleware: Productive Projects and Teams](https://amzn.to/2XR6keY). \[[中譯本](https://www.tenlong.com.tw/products/9789869916240)\]
  -  [The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2jY48Vh)
- -  [Programming Pearls](https://amzn.to/2XNxWlf)
- -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF)
- -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y)
- -  [Working Effectively with Legacy Code](https://amzn.to/2Y5hNvR)
+ -  [Programming Pearls](https://amzn.to/2XNxWlf). \[[中譯本](https://www.tenlong.com.tw/products/9789865022914)\]
+ -  [Refactoring: Improving the Design of Existing Code](https://amzn.to/2XQ2KlF). \[[中譯本](https://www.tenlong.com.tw/products/9789865021832)\]
+ -  [Soft Skills: The Software Developer's Life Manual](https://amzn.to/2XR9u2y). \[[中譯本](https://www.tenlong.com.tw/products/9786263240674)\]
+ -  [Working Effectively with Legacy Code](https://amzn.to/2Y5hNvR). \[[中譯本](https://www.tenlong.com.tw/products/9789864344000)\]
 
 ### [GNU Manuals](https://www.gnu.org/manual/manual.html)
 
