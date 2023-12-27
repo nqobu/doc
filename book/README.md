@@ -63,6 +63,26 @@
  -  [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/dp/1617292397). \[[中譯本](https://www.tenlong.com.tw/products/9786263240674)\]
  -  [Working Effectively with Legacy Code](https://www.amazon.com/dp/0131177052). \[[中譯本](https://www.tenlong.com.tw/products/9789864344000)\]
 
+### [Top 20 Books a Software Developer Must Read](https://dev.to/durgesh4993/top-20-books-a-software-developer-must-read-updated-9fh)
+
+ -  [50 Algorithms Every Programmer Should Know, 2e](https://www.amazon.com/dp/1803247762). \[[中譯本](https://www.tenlong.com.tw/products/9786263331778)\]
+ -  [C# 12 in a Nutshell: The Definitive Reference](https://www.amazon.com/dp/1098147448).
+ -  [Effective Java, 3e](https://www.amazon.com/dp/0134685997). \[[簡中譯本](https://www.tenlong.com.tw/products/9787111612728)\]
+ -  [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/dp/1492056359). \[[中譯本](https://www.tenlong.com.tw/products/9786263246331)\]
+ -  [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/dp/1492043451). \[[中譯本](https://www.tenlong.com.tw/products/9789865026615)\]
+ -  [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/dp/1617292230). \[[中譯本](https://www.tenlong.com.tw/products/9789863126546)\]
+     -  [Grokking Artificial Intelligence Algorithms](https://www.amazon.com/dp/161729618X). \[[中譯本](https://www.tenlong.com.tw/products/9786263243736)\]
+     -  [Grokking Algorithms: Simple and Effective Methods to Grokking Deep Learning and Machine Learning](https://www.amazon.com/dp/1088225349).
+ -  [Introducing Python: Modern Computing in Simple Packages, 2e](https://www.amazon.com/dp/1492051365). \[[中譯本](https://www.tenlong.com.tw/products/9789865024864)\]
+ -  [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.amazon.com/dp/1098100131). \[[中譯本](https://www.tenlong.com.tw/products/9786263243972)\]
+ -  [Learning Go: An Idiomatic Approach to Real-world Go Programming, 2e](https://www.amazon.com/dp/1098139291). \[[中譯本](https://www.tenlong.com.tw/products/9789865028787)\]
+ -  [Microservices Patterns: With examples in Java](https://www.amazon.com/dp/1617294543). \[[簡中譯本](https://www.tenlong.com.tw/products/9787111624127)\]
+ -  [Programming Rust: Fast, Safe Systems Development, 2e](https://www.amazon.com/dp/1492052590). \[[中譯本](https://www.tenlong.com.tw/products/9786263242326)\]
+ -  [Python Crash Course, 3e: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/dp/1718502702). \[[中譯本](https://www.tenlong.com.tw/products/9786263245044)\]
+ -  [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter, 3e](https://www.amazon.com/dp/109810403X). \[[中譯本](https://www.tenlong.com.tw/products/9786263244177)\]
+ -  [Software Architecture: The Hard Parts](https://www.amazon.com/dp/1492086894). \[[中譯本](https://www.tenlong.com.tw/products/9786263242043)\]
+ -  [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/dp/1492082791). \[[中譯本](https://www.tenlong.com.tw/products/9786263242630)\]
+
 ### [GNU Manuals](https://www.gnu.org/manual/manual.html)
 
  -  [GAWK](https://www.gnu.org/software/gawk). \[[PDF](https://www.gnu.org/software/gawk/manual/gawk.pdf)\] \[[HTML](https://www.gnu.org/software/gawk/manual/gawk.html)\]
