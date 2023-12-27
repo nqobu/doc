@@ -40,6 +40,27 @@
 
 ## See Also
 
+### [GNU Manuals](https://www.gnu.org/manual/manual.html)
+
+ -  [GAWK](https://www.gnu.org/software/gawk). \[[PDF](https://www.gnu.org/software/gawk/manual/gawk.pdf)\] \[[HTML](https://www.gnu.org/software/gawk/manual/gawk.html)\]
+ -  [GNU bc](https://www.gnu.org/software/bc/manual/bc.html). \[[HTML](https://www.gnu.org/software/bc/manual/html_mono/bc.html)\]; [GNU dc](https://www.gnu.org/software/bc/manual/dc-1.05/dc.html). \[[HTML](https://www.gnu.org/software/bc/manual/dc-1.05/html_mono/dc.html)\]
+ -  [GCC](https://gcc.gnu.org/onlinedocs). \[PDF:[13.2.0](https://gcc.gnu.org/onlinedocs/gcc-13.2.0/gcc.pdf), [12.3.0](https://gcc.gnu.org/onlinedocs/gcc-12.3.0/gcc.pdf), [11.4.0](https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc.pdf), [10.5.0](https://gcc.gnu.org/onlinedocs/gcc-10.5.0/gcc.pdf), [9.5.0](https://gcc.gnu.org/onlinedocs/gcc-9.5.0/gcc.pdf), [8.5.0](https://gcc.gnu.org/onlinedocs/gcc-8.5.0/gcc.pdf)\] \[HTML:[13.2.0](https://gcc.gnu.org/onlinedocs/gcc-13.2.0/gcc), [12.3.0](https://gcc.gnu.org/onlinedocs/gcc-12.3.0/gcc), [11.4.0](https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc), [10.5.0](https://gcc.gnu.org/onlinedocs/gcc-10.5.0/gcc), [9.5.0](https://gcc.gnu.org/onlinedocs/gcc-9.5.0/gcc), [8.5.0](https://gcc.gnu.org/onlinedocs/gcc-8.5.0/gcc)\]
+     -  [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual). \[[PDF](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)\] \[[HTML](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)\]
+     -  [GNU Coding Standards](https://www.gnu.org/prep/standards). \[[PDF](https://www.gnu.org/prep/standards/standards.pdf)\] \[[HTML](https://www.gnu.org/prep/standards/standards.html)\]
+ -  [GNU Coreutils](https://www.gnu.org/software/coreutils). \[[PDF](https://www.gnu.org/software/coreutils/manual/coreutils.pdf)\] \[[HTML](https://www.gnu.org/software/coreutils/manual/coreutils.html)\]
+ -  [GDB](https://sourceware.org/gdb/documentation). \[[PDF](https://sourceware.org/gdb/current/onlinedocs/gdb.pdf), [refcard](https://sourceware.org/gdb/current/onlinedocs/refcard.pdf)\]
+ -  [GNU ed](https://www.gnu.org/software/ed). \[[HTML](https://www.gnu.org/software/ed/manual/ed_manual.html)\]
+ -  [GNU Findutils](https://www.gnu.org/software/findutils/manual/find.html). \[[PDF](https://www.gnu.org/software/findutils/manual/find.pdf)\] \[[HTML](https://www.gnu.org/software/findutils/manual/html_mono/find.html)\]
+ -  [GNU Grep](https://www.gnu.org/software/grep). \[[PDF](https://www.gnu.org/software/grep/manual/grep.pdf)\] \[[HTML](https://www.gnu.org/software/grep/manual/grep.html)\]
+ -  [Indent](https://www.gnu.org/software/indent). \[[PDF](https://www.gnu.org/software/indent/manual/indent.pdf)\] \[[HTML](https://www.gnu.org/software/indent/manual/indent.html)\]
+ -  [GNU M4](https://www.gnu.org/software/m4). \[[PDF](https://www.gnu.org/software/m4/manual/m4.pdf)\] \[[HTML](https://www.gnu.org/software/m4/manual/m4.html)\]
+ -  [GNU Make](https://www.gnu.org/software/make). \[[PDF](https://www.gnu.org/software/make/manual/make.pdf)\] \[[HTML](https://www.gnu.org/software/make/manual/make.html)\]
+ -  [GNU nano](https://www.nano-editor.org/docs.php). \[[PDF](https://www.nano-editor.org/dist/latest/nano.pdf)\] \[[HTML](https://www.nano-editor.org/dist/latest/nano.html)\]
+ -  [GNU Octave](https://octave.org/support.html). \[[PDF](https://octave.org/octave.pdf)\]
+ -  [GNU Readline Library](http://www.gnu.org/software/readline). \[[HTML](https://tiswww.cwru.edu/php/chet/readline/readline.html)\]
+ -  [GNU Sed](https://www.gnu.org/software/sed). \[[PDF](https://www.gnu.org/software/sed/manual/sed.pdf)\] \[[HTML](https://www.gnu.org/software/sed/manual/sed.html)\]
+ -  ...
+
 ### [20 Most-Recommended Books for Software Developers](https://dev.to/awwsmm/20-most-recommended-books-for-software-developers-5578)
 
  -  [Agile Software Development: Principles, Patterns, and Practices](https://www.amazon.com/dp/0135974445). \[[簡中譯本](https://www.tenlong.com.tw/products/9787302558545)\]
@@ -82,27 +103,6 @@
  -  [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter, 3e](https://www.amazon.com/dp/109810403X). \[[中譯本](https://www.tenlong.com.tw/products/9786263244177)\]
  -  [Software Architecture: The Hard Parts](https://www.amazon.com/dp/1492086894). \[[中譯本](https://www.tenlong.com.tw/products/9786263242043)\]
  -  [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/dp/1492082791). \[[中譯本](https://www.tenlong.com.tw/products/9786263242630)\]
-
-### [GNU Manuals](https://www.gnu.org/manual/manual.html)
-
- -  [GAWK](https://www.gnu.org/software/gawk). \[[PDF](https://www.gnu.org/software/gawk/manual/gawk.pdf)\] \[[HTML](https://www.gnu.org/software/gawk/manual/gawk.html)\]
- -  [GNU bc](https://www.gnu.org/software/bc/manual/bc.html). \[[HTML](https://www.gnu.org/software/bc/manual/html_mono/bc.html)\]; [GNU dc](https://www.gnu.org/software/bc/manual/dc-1.05/dc.html). \[[HTML](https://www.gnu.org/software/bc/manual/dc-1.05/html_mono/dc.html)\]
- -  [GCC](https://gcc.gnu.org/onlinedocs). \[PDF:[13.2.0](https://gcc.gnu.org/onlinedocs/gcc-13.2.0/gcc.pdf), [12.3.0](https://gcc.gnu.org/onlinedocs/gcc-12.3.0/gcc.pdf), [11.4.0](https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc.pdf), [10.5.0](https://gcc.gnu.org/onlinedocs/gcc-10.5.0/gcc.pdf), [9.5.0](https://gcc.gnu.org/onlinedocs/gcc-9.5.0/gcc.pdf), [8.5.0](https://gcc.gnu.org/onlinedocs/gcc-8.5.0/gcc.pdf)\] \[HTML:[13.2.0](https://gcc.gnu.org/onlinedocs/gcc-13.2.0/gcc), [12.3.0](https://gcc.gnu.org/onlinedocs/gcc-12.3.0/gcc), [11.4.0](https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc), [10.5.0](https://gcc.gnu.org/onlinedocs/gcc-10.5.0/gcc), [9.5.0](https://gcc.gnu.org/onlinedocs/gcc-9.5.0/gcc), [8.5.0](https://gcc.gnu.org/onlinedocs/gcc-8.5.0/gcc)\]
-     -  [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual). \[[PDF](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)\] \[[HTML](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)\]
-     -  [GNU Coding Standards](https://www.gnu.org/prep/standards). \[[PDF](https://www.gnu.org/prep/standards/standards.pdf)\] \[[HTML](https://www.gnu.org/prep/standards/standards.html)\]
- -  [GNU Coreutils](https://www.gnu.org/software/coreutils). \[[PDF](https://www.gnu.org/software/coreutils/manual/coreutils.pdf)\] \[[HTML](https://www.gnu.org/software/coreutils/manual/coreutils.html)\]
- -  [GDB](https://sourceware.org/gdb/documentation). \[[PDF](https://sourceware.org/gdb/current/onlinedocs/gdb.pdf), [refcard](https://sourceware.org/gdb/current/onlinedocs/refcard.pdf)\]
- -  [GNU ed](https://www.gnu.org/software/ed). \[[HTML](https://www.gnu.org/software/ed/manual/ed_manual.html)\]
- -  [GNU Findutils](https://www.gnu.org/software/findutils/manual/find.html). \[[PDF](https://www.gnu.org/software/findutils/manual/find.pdf)\] \[[HTML](https://www.gnu.org/software/findutils/manual/html_mono/find.html)\]
- -  [GNU Grep](https://www.gnu.org/software/grep). \[[PDF](https://www.gnu.org/software/grep/manual/grep.pdf)\] \[[HTML](https://www.gnu.org/software/grep/manual/grep.html)\]
- -  [Indent](https://www.gnu.org/software/indent). \[[PDF](https://www.gnu.org/software/indent/manual/indent.pdf)\] \[[HTML](https://www.gnu.org/software/indent/manual/indent.html)\]
- -  [GNU M4](https://www.gnu.org/software/m4). \[[PDF](https://www.gnu.org/software/m4/manual/m4.pdf)\] \[[HTML](https://www.gnu.org/software/m4/manual/m4.html)\]
- -  [GNU Make](https://www.gnu.org/software/make). \[[PDF](https://www.gnu.org/software/make/manual/make.pdf)\] \[[HTML](https://www.gnu.org/software/make/manual/make.html)\]
- -  [GNU nano](https://www.nano-editor.org/docs.php). \[[PDF](https://www.nano-editor.org/dist/latest/nano.pdf)\] \[[HTML](https://www.nano-editor.org/dist/latest/nano.html)\]
- -  [GNU Octave](https://octave.org/support.html). \[[PDF](https://octave.org/octave.pdf)\]
- -  [GNU Readline Library](http://www.gnu.org/software/readline). \[[HTML](https://tiswww.cwru.edu/php/chet/readline/readline.html)\]
- -  [GNU Sed](https://www.gnu.org/software/sed). \[[PDF](https://www.gnu.org/software/sed/manual/sed.pdf)\] \[[HTML](https://www.gnu.org/software/sed/manual/sed.html)\]
- -  ...
 
 ### [Jean Gallier's books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
