@@ -59,7 +59,7 @@
  -  [Peopleware: Productive Projects and Teams, 3e](https://www.amazon.com/dp/0321934113). \[[中譯本](https://www.tenlong.com.tw/products/9789869916240)\]
  -  [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition, 2e](https://www.amazon.com/dp/0135957052) \[[中譯本](https://www.tenlong.com.tw/products/9789865022754)\]
  -  [Programming Pearls, 2e](https://www.amazon.com/dp/0201657880). \[[中譯本](https://www.tenlong.com.tw/products/9789865022914)\]
- -  [Refactoring: Improving the Design of Existing Code, 2e](@Lhttps://www.amazon.com/dp/0134757599). \[[中譯本](https://www.tenlong.com.tw/products/9789865021832)\]
+ -  [Refactoring: Improving the Design of Existing Code, 2e](https://www.amazon.com/dp/0134757599). \[[中譯本](https://www.tenlong.com.tw/products/9789865021832)\]
  -  [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/dp/1617292397). \[[中譯本](https://www.tenlong.com.tw/products/9786263240674)\]
  -  [Working Effectively with Legacy Code](https://www.amazon.com/dp/0131177052). \[[中譯本](https://www.tenlong.com.tw/products/9789864344000)\]
 
