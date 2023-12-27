@@ -78,7 +78,7 @@
  -  [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/dp/0201835959). \[[中譯本](https://www.tenlong.com.tw/products/9789867889188)\]
  -  [Patterns of Enterprise Application Architecture](https://www.amazon.com/dp/0321127420). \[[中譯本](https://www.tenlong.com.tw/products/9786263330504)\]
  -  [Peopleware: Productive Projects and Teams, 3e](https://www.amazon.com/dp/0321934113). \[[中譯本](https://www.tenlong.com.tw/products/9789869916240)\]
- -  [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition, 2e](https://www.amazon.com/dp/0135957052) \[[中譯本](https://www.tenlong.com.tw/products/9789865022754)\]
+ -  [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition, 2e](https://www.amazon.com/dp/0135957052). \[[中譯本](https://www.tenlong.com.tw/products/9789865022754)\]
  -  [Programming Pearls, 2e](https://www.amazon.com/dp/0201657880). \[[中譯本](https://www.tenlong.com.tw/products/9789865022914)\]
  -  [Refactoring: Improving the Design of Existing Code, 2e](https://www.amazon.com/dp/0134757599). \[[中譯本](https://www.tenlong.com.tw/products/9789865021832)\]
  -  [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/dp/1617292397). \[[中譯本](https://www.tenlong.com.tw/products/9786263240674)\]
@@ -88,21 +88,21 @@
 
  -  [50 Algorithms Every Programmer Should Know, 2e](https://www.amazon.com/dp/1803247762). \[[中譯本](https://www.tenlong.com.tw/products/9786263331778)\]
  -  [C# 12 in a Nutshell: The Definitive Reference](https://www.amazon.com/dp/1098147448).
- -  Clean Architecture: A Craftsman's Guide to Software Structure and Design
- -  Clean Code: A Handbook of Agile Software Craftsmanship
+ -  [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/dp/0134494164).
+ -  [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/dp/0132350882).
  -  [Effective Java, 3e](https://www.amazon.com/dp/0134685997). \[[簡中譯本](https://www.tenlong.com.tw/products/9787111612728)\]
  -  [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/dp/1492056359). \[[中譯本](https://www.tenlong.com.tw/products/9786263246331)\]
  -  [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/dp/1492043451). \[[中譯本](https://www.tenlong.com.tw/products/9789865026615)\]
  -  [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/dp/1617292230). \[[中譯本](https://www.tenlong.com.tw/products/9789863126546)\]
      -  [Grokking Artificial Intelligence Algorithms](https://www.amazon.com/dp/161729618X). \[[中譯本](https://www.tenlong.com.tw/products/9786263243736)\]
      -  [Grokking Algorithms: Simple and Effective Methods to Grokking Deep Learning and Machine Learning](https://www.amazon.com/dp/1088225349).
- -  Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software, 2e
+ -  [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software, 2e](https://www.amazon.com/dp/B08P3X99QP).
  -  [Introducing Python: Modern Computing in Simple Packages, 2e](https://www.amazon.com/dp/1492051365). \[[中譯本](https://www.tenlong.com.tw/products/9789865024864)\]
  -  [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.amazon.com/dp/1098100131). \[[中譯本](https://www.tenlong.com.tw/products/9786263243972)\]
  -  [Learning Go: An Idiomatic Approach to Real-world Go Programming, 2e](https://www.amazon.com/dp/1098139291). \[[中譯本](https://www.tenlong.com.tw/products/9789865028787)\]
  -  [Microservices Patterns: With examples in Java](https://www.amazon.com/dp/1617294543). \[[簡中譯本](https://www.tenlong.com.tw/products/9787111624127)\]
- -  OCP Oracle Certified Professional Java SE 17 Developer Study Guide
- -  The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition, 2e
+ -  [OCP Oracle Certified Professional Java SE 17 Developer Study Guide](https://www.amazon.com/dp/1119864585).
+ -  [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition, 2e](https://www.amazon.com/dp/0135957052).
  -  [Programming Rust: Fast, Safe Systems Development, 2e](https://www.amazon.com/dp/1492052590). \[[中譯本](https://www.tenlong.com.tw/products/9786263242326)\]
  -  [Python Crash Course, 3e: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/dp/1718502702). \[[中譯本](https://www.tenlong.com.tw/products/9786263245044)\]
  -  [Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter, 3e](https://www.amazon.com/dp/109810403X). \[[中譯本](https://www.tenlong.com.tw/products/9786263244177)\]
